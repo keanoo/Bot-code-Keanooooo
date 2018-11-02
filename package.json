@@ -1,0 +1,22 @@
+{
+  "name": "keanocraftbot",
+  "version": "5.0.0",
+  "description": "0.0.1 bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Hey",
+    "hey"
+  ],
+  "author": "Keano",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
