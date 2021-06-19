@@ -1,2 +1,1 @@
-# FunPark
-Deze bot draait 24/7!
+Bot code Keanoooo
